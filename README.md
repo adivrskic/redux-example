@@ -1,10 +1,10 @@
-A simple React + Redux example
+### A simple React + Redux example
 
-Items covered:
-Action creators
-Reducers
-Combining Reducers
-Wiring up the Provider
-The connect function
-Configuring connect with mapStateToProps
-Calling action creators from components
+#### Items covered:
+1. Action creators
+2. Reducers
+3. Combining Reducers
+4. Wiring up the Provider
+5. The connect function
+6. Configuring connect with mapStateToProps
+7. Calling action creators from components
